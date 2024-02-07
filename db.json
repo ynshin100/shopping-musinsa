@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fcd%2F7f%2Fcd7f2e885b680270036c03a3168998a448dfac79.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "코티드 바이커 재킷",
+      "price": 79900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 1,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fef%2F0d%2Fef0d75ddf06ee013c3ffd29078666988cdc3a1fd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "오버사이즈 워시드 룩 후드티",
+      "price": 59900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 2,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe7%2F69%2Fe769085b62c62fce0785c4ff14472b94b515ee92.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "크루넥 스웨트셔츠",
+      "price": 17900,
+      "choice": false,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 3,
+      "img": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fbc%2F53%2Fbc5382a41e16033a70f7c1ca6d56f1934e27ac6f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "title": "슬림핏 코튼 터틀넥 탑",
+      "price": 9900,
+      "choice": false,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 4,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5f%2Fea%2F5feae2e785dfe9a9a43f3126ac8472ec1d426c3c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/fullscreen]",
+      "title": "레귤러핏 집업 가디건",
+      "price": 69000,
+      "choice": true,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 5,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/eb/ce/ebce68bd1bc4e4d9c25104ca3903bdec9850859b.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "시퀸 플레어 드레스",
+      "price": 39900,
+      "choice": false,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 6,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2f%2F13%2F2f13b40409008cb6854cc489b6e7816f1325d6c1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "와이드 울트라 하이웨이스트 진",
+      "price": 39900,
+      "choice": true,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 7,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0a%2F1d%2F0a1df3764029a33a65c04cbd08a340e8f8450677.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "오버사이즈 집탑 드레스",
+      "price": 59900,
+      "choice": false,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 8,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/a2/24/a224b2ee5e069e54e5f9a4adbb0c741011293155.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "셔링 메쉬 드레스",
+      "price": 14900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 9,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/9a/ae/9aae5fa4857581269e4b30ecd0f41b34546433e9.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[2]&call=url[file:/product/main]",
+      "title": "스트레이트 레귤러 진",
+      "price": 19900,
+      "choice": false,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 10,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/84/ce/84ce870d8ae022ed2e6eca1d5ec4df7f94236f7c.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "스트랩리스 데님 탑",
+      "price": 19900,
+      "choice": true,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 11,
+      "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F51%2F08%2F510869fa78ab95b7bcf02153b261958c4fe89642.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "title": "루즈핏 트윌 재킷",
+      "price": 64900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 12,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/c7/12/c71238ea197603e0aa492223692431d388f664f9.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "와이드 하이웨이스트 진",
+      "price": 14900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 13,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/20/61/20612b8b2f20416575f10ef251a8dd6f62f0b2c1.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "레귤러 웨이스트 와이드 진",
+      "price": 29900,
+      "choice": false,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 14,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/f9/c7/f9c75f4e5bb9181a9b77e7641078f08e7c038333.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "벨티드 퀼팅 재킷",
+      "price": 299000,
+      "choice": false,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 15,
+      "img": "https://lp2.hm.com/hmgoepprod?set=source[/15/f9/15f9621209d5bc5acc29bd71cbf24b0bcd825e81.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "title": "싱글 브레스티드 재킷",
+      "price": 69900,
+      "choice": false,
+      "new": false,
+      "size": ["S", "M", "L"]
+    }
+  ]
+}
